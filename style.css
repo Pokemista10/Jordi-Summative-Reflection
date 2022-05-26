@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.5vh;
+    color: orange;
+    background-color: white;
+}
+
+.title{
+    font-size: 3vh;
+}
+
+.icon{
+    font-size: 10vh;
+}
